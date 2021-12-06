@@ -1,5 +1,5 @@
 
-![Logotipo ][1]
+![JM_Designs-xs][1]
 # Repositorio de Curso Javascript Práctico
 
 ## Creador: Julio Mata, JM Designs
